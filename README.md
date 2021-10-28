@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grvdshwl
 - 👀 I’m interested in ...React, JavaScript,Block-Chain,AI.
-- 🌱 I’m currently learning ...Advance React Topics,Backend.
+- 🌱 I’m currently learning ...TypeScript,React Native & Backend.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... grv.dshwl.18@gmail.com
 
